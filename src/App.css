@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+section{
+  max-width: 700px;
+  width: 100%;
+  margin: 40px auto;
+  
+}
+ul{
+  margin: 40px auto;
+}
+input{
+  width: 100%;
+  max-width: 400px;
+  border: none;
+  height: 40px;
+  background-color: #ecedee;
+  padding-left: 10px;
+}
+button{
+  border: none;
+  height: 40px;
+  margin-left: 5px;
+  padding: 0 10px;
+  cursor: pointer;
+  background-color: #d1b735;
+  color: #515252;
+}
+ul li span{
+  margin-left: 10px;  
+  color: grey;
+  cursor: pointer;
+}
